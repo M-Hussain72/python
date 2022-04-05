@@ -1,20 +1,11 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[42]:
 
 
 lst = [1,2,3,4]
 
-
-# In[3]:
-
-
 type(lst)
-
-
-# In[4]:
-
 
 lst[2]
 
